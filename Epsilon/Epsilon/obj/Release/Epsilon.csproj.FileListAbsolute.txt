@@ -1,0 +1,7 @@
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\bin\Release\Epsilon.dll
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\bin\Release\Epsilon.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\bin\Release\CCStepsCoords.dll
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\bin\Release\Interfaces.dll
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\obj\Release\Epsilon.dll
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\obj\Release\Epsilon.pdb

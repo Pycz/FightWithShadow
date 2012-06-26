@@ -1,0 +1,5 @@
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\CCStepsCoords\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Тут тестируем готовость\CCStepsCoords.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Тут тестируем готовость\CCStepsCoords.pdb
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\CCStepsCoords\obj\Release\CCStepsCoords.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\CCStepsCoords\obj\Release\CCStepsCoords.pdb

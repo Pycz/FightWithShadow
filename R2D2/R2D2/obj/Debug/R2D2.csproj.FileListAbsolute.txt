@@ -1,0 +1,12 @@
+C:\Users\1\documents\visual studio 2010\Projects\R2D2\R2D2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2010\Projects\R2D2\R2D2\bin\Debug\R2D2.dll
+C:\Users\1\documents\visual studio 2010\Projects\R2D2\R2D2\bin\Debug\R2D2.pdb
+C:\Users\1\documents\visual studio 2010\Projects\R2D2\R2D2\bin\Debug\Interfaces.dll
+C:\Users\1\documents\visual studio 2010\Projects\R2D2\R2D2\obj\Debug\R2D2.dll
+C:\Users\1\documents\visual studio 2010\Projects\R2D2\R2D2\obj\Debug\R2D2.pdb
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\R2D2\R2D2\bin\Debug\R2D2.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\R2D2\R2D2\bin\Debug\R2D2.pdb
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\R2D2\R2D2\bin\Debug\Interfaces.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\R2D2\R2D2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\R2D2\R2D2\obj\Debug\R2D2.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\R2D2\R2D2\obj\Debug\R2D2.pdb

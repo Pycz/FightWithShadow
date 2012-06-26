@@ -1,0 +1,5 @@
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Interfaces\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Тут тестируем готовость\Interfaces.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Тут тестируем готовость\Interfaces.pdb
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Interfaces\obj\Release\Interfaces.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Interfaces\obj\Release\Interfaces.pdb

@@ -1,0 +1,28 @@
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\bin\Debug\Epsilon.dll
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\bin\Debug\Epsilon.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\bin\Debug\CCStepsCoords.dll
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\bin\Debug\Interfaces.dll
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\obj\Debug\Epsilon.dll
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Epsilon\Epsilon\obj\Debug\Epsilon.pdb
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Epsilon\Epsilon\bin\Debug\Epsilon.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Epsilon\Epsilon\bin\Debug\Epsilon.pdb
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Epsilon\Epsilon\bin\Debug\CCStepsCoords.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Epsilon\Epsilon\bin\Debug\Interfaces.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Epsilon\Epsilon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Epsilon\Epsilon\obj\Debug\Epsilon.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\Epsilon\Epsilon\obj\Debug\Epsilon.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\MasterElement\Epsilon\Epsilon\bin\Debug\Epsilon.dll
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\MasterElement\Epsilon\Epsilon\bin\Debug\Epsilon.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\MasterElement\Epsilon\Epsilon\bin\Debug\CCStepsCoords.dll
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\MasterElement\Epsilon\Epsilon\bin\Debug\Interfaces.dll
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\MasterElement\Epsilon\Epsilon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\MasterElement\Epsilon\Epsilon\obj\Debug\Epsilon.dll
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\MasterElement\Epsilon\Epsilon\obj\Debug\Epsilon.pdb
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\MasterElement\Epsilon\Epsilon\bin\Debug\Epsilon.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\MasterElement\Epsilon\Epsilon\bin\Debug\Epsilon.pdb
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\MasterElement\Epsilon\Epsilon\bin\Debug\CCStepsCoords.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\MasterElement\Epsilon\Epsilon\bin\Debug\Interfaces.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\MasterElement\Epsilon\Epsilon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\MasterElement\Epsilon\Epsilon\obj\Debug\Epsilon.dll
+C:\Users\Pycz\Desktop\My programs\C#\MasterElement\MasterElement\Epsilon\Epsilon\obj\Debug\Epsilon.pdb
